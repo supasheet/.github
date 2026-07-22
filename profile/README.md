@@ -7,12 +7,12 @@ Supasheet is an open-source internal tool builder for Supabase. It gives you aut
 
 ## Repositories
 
-- [`supasheet`](https://github.com/supasheet/supasheet) — the open-source core app (React 19 + Vite + Supabase)
-- [`supasheet-docs`](https://github.com/supasheet/supasheet.github.io) — official documentation
+- [`supasheet`](https://github.com/supasheet/supasheet) : the open-source core app (React 19 + Vite + Supabase)
+- [`supasheet-docs`](https://github.com/supasheet/supasheet.github.io) : official documentation
 
 ## Demo
 
-Try the live demo at [jdydxqrxntcdrxhqqmuv.supasheet.app](https://jdydxqrxntcdrxhqqmuv.supasheet.app/) — sign in with `user@supasheet.app` / `12345678`.
+Try the live demo at [jdydxqrxntcdrxhqqmuv.supasheet.app](https://jdydxqrxntcdrxhqqmuv.supasheet.app/) ; sign in with `user@supasheet.app` / `12345678`.
 
 ## Links
 
