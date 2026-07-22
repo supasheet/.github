@@ -12,7 +12,7 @@ Supasheet is an open-source internal tool builder for Supabase. It gives you aut
 
 ## Demo
 
-Try the live demo at [fygtkjpcxbhorxnuovoq.supasheet.app](https://fygtkjpcxbhorxnuovoq.supasheet.app/) — sign in with `user@supasheet.app` / `12345678`.
+Try the live demo at [jdydxqrxntcdrxhqqmuv.supasheet.app](https://jdydxqrxntcdrxhqqmuv.supasheet.app/) — sign in with `user@supasheet.app` / `12345678`.
 
 ## Links
 
