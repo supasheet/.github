@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Supasheet</h1>
-  <p><strong>Turn any Supabase project into a complete admin platform</strong></p>
+  <p><strong>Turn any Supabase project into a real business platform</strong></p>
 </div>
 
-Supasheet is an open-source internal tool builder for Supabase. It gives you auto-generated CRUD, dashboards, charts, reports, RBAC, and audit logs — all driven by your Postgres schema. Define your features in SQL, and the UI renders itself. Self-host it for free, or use the hosted platform at [supasheet.app](https://supasheet.app).
+One SQL migration in, an ERP, CRM, or admin platform out - auto-CRUD, six data views, dashboards, RBAC, RLS, audit logs, and file storage, all enforced natively by Supabase. [supasheet.app](https://supasheet.app).
 
 ## Repositories
 
