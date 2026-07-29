@@ -8,7 +8,7 @@ One SQL migration in, an ERP, CRM, or admin platform out - auto-CRUD, six data v
 ## Repositories
 
 - [`supasheet`](https://github.com/supasheet/supasheet) : the open-source core app (React 19 + Vite + Supabase)
-- [`supasheet-docs`](https://github.com/supasheet/supasheet.github.io) : official documentation
+- [`supasheet.github.io`](https://github.com/supasheet/supasheet.github.io) : official documentation
 
 ## Demo
 
